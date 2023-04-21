@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mysite/static/css/main.d9963a84.css",
+    "main.js": "/mysite/static/js/main.93f49cff.js",
+    "static/media/logo-upnvj.png": "/mysite/static/media/logo-upnvj.c6e3329f775b385e329a.png",
+    "static/media/logo-smkn26.png": "/mysite/static/media/logo-smkn26.eb3b1ebe60355d6f2ca3.png",
+    "static/media/logo-react.png": "/mysite/static/media/logo-react.73dbb5bcec516da82694.png",
+    "static/media/4x6.jpg": "/mysite/static/media/4x6.b0461644d11b556483ad.jpg",
+    "static/media/logo-php.png": "/mysite/static/media/logo-php.943ac1d69b200be5b172.png",
+    "static/media/logo-css.png": "/mysite/static/media/logo-css.8a182087615a3845ebac.png",
+    "static/media/logo-sass.png": "/mysite/static/media/logo-sass.13045b9023e3420bd176.png",
+    "static/media/logo-go.png": "/mysite/static/media/logo-go.e3552e0fa4a415f5d6d0.png",
+    "static/media/logo-r.png": "/mysite/static/media/logo-r.3925a9d915bef82cbc65.png",
+    "static/media/logo-office.png": "/mysite/static/media/logo-office.b537525da8d8258d0ecf.png",
+    "static/media/logo-javascript.png": "/mysite/static/media/logo-javascript.062825dbceed44567e91.png",
+    "static/media/logo-tableau.png": "/mysite/static/media/logo-tableau.1c121c7f39fbc45f5601.png",
+    "static/media/logo-html.png": "/mysite/static/media/logo-html.eebc3fbfbde4b2abd9db.png",
+    "static/media/logo-gmail.png": "/mysite/static/media/logo-gmail.d765005ce9d4caa3d69e.png",
+    "index.html": "/mysite/index.html",
+    "main.d9963a84.css.map": "/mysite/static/css/main.d9963a84.css.map",
+    "main.93f49cff.js.map": "/mysite/static/js/main.93f49cff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9963a84.css",
+    "static/js/main.93f49cff.js"
+  ]
+}
